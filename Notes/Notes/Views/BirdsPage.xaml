@@ -29,7 +29,7 @@
                      Clicked="OnAddClicked" />
     </ContentPage.ToolbarItems>
 
-    <!-- Display notes in a list -->
+    <!-- Display sightings in a list -->
     <CollectionView x:Name="collectionView"
                     Margin="{StaticResource PageMargin}"
                     SelectionMode="Single"
